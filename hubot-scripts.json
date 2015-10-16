@@ -1,1 +1,27 @@
-["redis-brain.coffee", "shipit.coffee"]
+[
+        "github-commit-link.coffee",
+        "github-issue-link.coffee",
+        "github-pulls.coffee",
+        "github-search.coffee",
+        
+        "announce.coffee",
+        "advice.coffee",
+        "applause.coffee",
+        "ascii.coffee",
+        "dilbert.coffee",
+        "deadline.coffee",
+        "fortune.coffee",
+        "futurama.coffee",
+        "good-night.coffee",
+        "goodbad.coffee",
+        "google.coffee",
+        "hackernews.coffee",
+        "karma.coffee",
+        "look-of-disapproval.coffee",
+        "manatee.coffee",
+        "spotify.coffee",
+        "weather.coffee",
+        
+        "redis-brain.coffee",
+        "shipit.coffee"
+]

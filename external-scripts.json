@@ -1,1 +1,10 @@
-[]
+[
+	"hubot-circleci",
+	"hubot-plusplus",
+	"hubot-thank-you",
+	"hubot-github-notify",
+	"hubot-tell",
+	"hubot-reaction",
+	"hubot-standup",
+	"hubot-seen"
+]
